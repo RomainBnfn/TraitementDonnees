@@ -1,7 +1,5 @@
-# TraitementDonnees
+# Traitement Donnees
 
-TUCOM       Tranche de commune du lieu de domicile des époux 
-TUDOM       Tranche d’unité urbaine du lieu de domicile des époux 
 
 | Var Name | Signification |
 | :---: | :---: | :---: |
